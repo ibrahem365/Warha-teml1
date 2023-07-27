@@ -1218,6 +1218,7 @@ iframe.embed-responsive-item {
 
 .sec3-content2 .card:first-of-type {
     padding-top: 0;
+    display: flex;
 }
 
 .sec3-content2 .card h3 {
